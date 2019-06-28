@@ -1,0 +1,9 @@
+classes= 80
+train  = /home/aamir/PycharmProjects/darknet_detection/ultralytics_yolov3/bin/data/coco/trainvalno5k.txt
+
+valid  = coco_testdev
+#valid = data/coco_val_5k.list
+names = /home/aamir/PycharmProjects/darknet_detection/ultralytics_yolov3/bin/data/coco.names
+backup = /home/aamir/backup/
+eval=coco
+
